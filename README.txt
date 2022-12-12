@@ -1,3 +1,5 @@
+The Chinook database was created by Luis Rocha and is licensed as open source under the MIT license.
+
 *****************************
 
 Welcome to my first school project! This project is about creating a web application that uses
@@ -5,7 +7,7 @@ Chinook-database to display some artists. The styling is very simple on purpose,
 is just to demonstrate my knowledge in creating some small functionalities in a 
 web application that uses a small database.
 
-List of Servlets included in the projec (src/main/java/servlet):
+List of Servlets included in the project (src/main/java/servlet):
 
 - AlbumListServlet.java -- this Servlet is for listing albums of a chosen artist
 - ArtistListServlet.java -- this Servlet is for listing all artists in the Chinook database
